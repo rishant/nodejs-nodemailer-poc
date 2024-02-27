@@ -9,6 +9,10 @@
     
     npm install --save-dev nodemon
 
+    npm install nodemailer
+    
+    npm install ejs
+
 ## API's
 
     curl --location --request POST 'http://localhost:4000/users/create' \
